@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "npm Dark Mode Extension",
+  "version": "1.0",
+  "description": "Activate dark mode on the npm website.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.npmjs.com/*"],
+      "css": ["darkMode.css"],
+      "js": ["darkMode.js"]
+    }
+  ]
+}
