@@ -3,7 +3,7 @@
 ## Description:
  This extension enables you to activate a dark mode on the npmjs website, providing a more pleasant browsing experience in low-light conditions.
 
- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![App Screenshot](https://github.com/sosthene14/npmjs-dark-mode-chorme-extension/blob/master/screen.png)
 
 ## Features:
 
